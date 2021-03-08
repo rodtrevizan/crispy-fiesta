@@ -1,0 +1,30 @@
+{
+  "name": "crispy-fiesta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodtrevizan/crispy-fiesta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodtrevizan/crispy-fiesta/issues"
+  },
+  "homepage": "https://github.com/rodtrevizan/crispy-fiesta#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.32",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.3"
+  }
+}
